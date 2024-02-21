@@ -1,3 +1,3 @@
 # feedback-analyzer
 
-This is an prototype of feedback-analyzer
+This is a prototype of feedback-analyzer
